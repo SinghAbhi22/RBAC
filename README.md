@@ -1,5 +1,6 @@
 # RBAC
 [DESCRIPTION]
+
 CLI App to demonstrate role based access.
 There are 2 defined roles in the system: 'admin','user'
 On startup:Press 1 to login as admin OR Press 2 to login as user
@@ -17,6 +18,7 @@ To run the app:
 
 
 [VERSION]
+
 python version 3.8.4
 
 [SCREENSHOTS]
