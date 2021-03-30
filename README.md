@@ -20,6 +20,7 @@ To run the app:
 python version 3.8.4
 
 [SCREENSHOTS]
+
 ![image](https://user-images.githubusercontent.com/41269062/112944973-41f6bd80-9151-11eb-9802-90c457546b30.png)
 ![image](https://user-images.githubusercontent.com/41269062/112945052-62267c80-9151-11eb-8d7a-6986a1f38f4e.png)
 ![image](https://user-images.githubusercontent.com/41269062/112945166-8d10d080-9151-11eb-8e4a-4080f4bc99de.png)
